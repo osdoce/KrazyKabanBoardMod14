@@ -7,14 +7,6 @@ KabanBoard is a task management application based on the Kanban system. It allow
 ---
 ### Installation and Configuration
 ### Clone the repository
-bash
-git clone https://github.com/your-username/kabanboard.git
-cd kabanboard-main
-
-
-### Set up environment variables
-Create a `.env` file in the `server/` 
-In `client/`, create `.env`:
 
 ### Install dependencies
 Run in both folders:
